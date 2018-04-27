@@ -27,3 +27,6 @@ makeInt(n){
   return parseInt(n,10)
 }
 
+preserveDecimal(n){
+  return parseInt(n)
+}
