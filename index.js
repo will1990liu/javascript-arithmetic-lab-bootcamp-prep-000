@@ -1,5 +1,7 @@
+var number;
+
 function add(x , y){
-  return x+y
+  return number=x+y
 }
 
 function subtract(x,y){
