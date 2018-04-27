@@ -11,8 +11,8 @@ function subtract(x,y){
 function multiply(x,y){
   return x*y
 }
-function divide(a,b){
-  return a/b
+function divide(x,y){
+  return x/y
 }
 
 function inc(n){
