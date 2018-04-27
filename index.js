@@ -1,15 +1,15 @@
-function add(a , b){
-  return a+b；
+function add(x , y){
+  return x+y；
 }
 
-function subtract(a, b){
-  return a-b;
+function subtract(x,y){
+  return x-y;
 }
 
-function multiply(a, b){
-  return a*b;
+function multiply(x,y){
+  return x*y;
 }
 
 function inc(n){
-  return a++
+  return n++
 }
