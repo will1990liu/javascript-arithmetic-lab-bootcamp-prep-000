@@ -1,11 +1,11 @@
 var number;
 
 function add(a,b){
-  return a+b
+  return number= a+b;
 }
 
 function subtract(a,b){
-  return a-b
+  return number=a-b;
 }
 
 function multiply(a,b){
